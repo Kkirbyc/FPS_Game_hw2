@@ -41,4 +41,4 @@ The repository includes the editable `.uproject`, `Content`, and `Config`. A pac
 
 The author manually tested the gameplay in the editor, including target damage, ammunition depletion and pickups, health damage and pickups, map progression, restarting from the menu, and death/reload in both maps. The QUIT button was tested in Standalone Game. These are manual test results, not automated verification.
 
-The Game Default Map is Menu, and the packaging map list includes Menu, Arena01, and Arena02. A packaged Windows build has not been produced or tested. The demonstration video and final timestamps will be added after recording.
+The Game Default Map is Menu, and the packaging map list includes Menu, Arena01, and Arena02. A packaged Windows build has not been produced or tested. 
