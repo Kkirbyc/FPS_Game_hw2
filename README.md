@@ -5,7 +5,7 @@ Unreal Engine **5.0.3**. Editable coursework project based on the First Person t
 ## Submission links
 
 - Project: https://github.com/Kkirbyc/FPS_Game_hw2
-- Demonstration video: **Pending recording and upload.**
+- Demonstration video: https://youtu.be/yYsdKtKHtvQ
 
 ## Open and play
 
